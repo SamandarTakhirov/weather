@@ -1,0 +1,5 @@
+include: package:flutter_lints/flutter.yaml
+analyzer:
+  errors:
+    unused_element: ignore
+    body_might_complete_normally_nullable: ignore
